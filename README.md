@@ -1,8 +1,10 @@
 # 이과전선
 
-[바로 플레이](https://leejuhan-1214.github.io/)
+[바로 플레이](https://leejuhan-1214.github.io/math/)
 
 함수 그래프로 싸우는 3D FPS · 5챕터 40스테이지.
+
+체력 100 · 최대 탄약 100 · 1인칭 곡선 탄도와 실시간 그래프.
 
 WASD 이동 · 마우스 시점 · 클릭/J 발사 · Space 점프 · E 함수 편집 · Q/K/R 스킬.
 
